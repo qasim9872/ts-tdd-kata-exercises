@@ -9,6 +9,13 @@
     "dist",
     "src"
   ],
+  "keywords": [
+    "kata",
+    "tdd",
+    "test driven development",
+    "typescript",
+    "jest"
+  ],
   "engines": {
     "node": ">=10"
   },
@@ -16,8 +23,7 @@
     "start": "tsdx watch",
     "build": "tsdx build",
     "test": "tsdx test",
-    "lint": "tsdx lint",
-    "prepare": "tsdx build"
+    "lint": "tsdx lint"
   },
   "husky": {
     "hooks": {
