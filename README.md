@@ -28,3 +28,8 @@ One action is added by default:
 
 - [Learn TDD - Peter Provost](http://www.peterprovost.org/blog/2012/05/02/kata-the-only-way-to-learn-tdd/)
 - [Clean Code TDD - Uncle Bob](https://www.youtube.com/watch?v=58jGpV2Cg50)
+
+## Kata
+
+- [Greeting](https://github.com/testdouble/contributing-tests/wiki/Greeting-Kata)
+- [Bowling](http://www.butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)

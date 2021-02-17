@@ -1,7 +1,7 @@
-import { sum } from '../bowling';
+import bowling from '../bowling';
 
-describe('blah', () => {
-  it('works', () => {
-    expect(sum(1, 1)).toEqual(2);
+describe('bowling', () => {
+  it('passes', () => {
+    expect(bowling()).toBeTruthy();
   });
 });
