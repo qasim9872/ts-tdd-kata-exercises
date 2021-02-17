@@ -1,5 +1,7 @@
 # TypeScript Test Driven Development (Kata) Exercises
 
+![Tests](https://github.com/qasim9872/ts-tdd-kata-exercises/workflows/CI/badge.svg)
+
 The repo provides a playground for doing daily kata exercises. It's configured with all the tools you will need to work through the exercises as seamless as possible.
 
 ## Configuration
