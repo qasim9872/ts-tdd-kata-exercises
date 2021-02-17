@@ -23,3 +23,8 @@ ESLint is set up to enforce best practices.
 One action is added by default:
 
 - `main` which installs deps w/ cache, lints, tests, and builds on all pushes against a Node and OS matrix
+
+## Inspiration
+
+- [Learn TDD - Peter Provost](http://www.peterprovost.org/blog/2012/05/02/kata-the-only-way-to-learn-tdd/)
+- [Clean Code TDD - Uncle Bob](https://www.youtube.com/watch?v=58jGpV2Cg50)
