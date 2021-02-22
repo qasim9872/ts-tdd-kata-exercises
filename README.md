@@ -4,6 +4,14 @@
 
 The repo provides a playground for doing daily kata exercises. It's configured with all the tools you will need to work through the exercises as seamless as possible.
 
+## Rules of the game
+
+Uncle Bob describes TDD with three rules:
+
+- You are not allowed to write any production code unless it is to make a failing unit test pass.
+- You are not allowed to write any more of a unit test than is sufficient to fail; and compilation failures are failures.
+- You are not allowed to write any more production code than is sufficient to pass the one failing unit test.
+
 ## Configuration
 
 Code quality is set up for you with `prettier`, `husky`, and `lint-staged`.

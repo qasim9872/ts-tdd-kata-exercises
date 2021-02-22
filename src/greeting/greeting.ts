@@ -1,3 +1,3 @@
-export default function bowling() {
+export default function greet() {
   return true;
 }
