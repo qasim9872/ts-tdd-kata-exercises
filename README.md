@@ -41,3 +41,5 @@ One action is added by default:
 
 - [Greeting](https://github.com/testdouble/contributing-tests/wiki/Greeting-Kata)
 - [Bowling](http://www.butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
+- [Fizz Buzz](https://kata-log.rocks/fizz-buzz-kata)
+- [Christmas Lights](https://kata-log.rocks/christmas-lights-kata)
